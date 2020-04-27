@@ -1,0 +1,15 @@
+.tabell,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.Corona{
+    width: 200px;
+    height: auto;
+    right: 300px;
+    top: 70px;
+    position: absolute;
+}
+.viktig{
+    font-style: italic;
+    
+}
